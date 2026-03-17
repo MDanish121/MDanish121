@@ -69,9 +69,7 @@ Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Proje
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=MDanish121&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MDanish121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDanish121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MDanish121&theme=radical&no-frame=false&no-bg=true&margin-w=4)
