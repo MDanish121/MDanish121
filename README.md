@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **danish.softknowledges@gmail.com** For Collaboration/Proje
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chwajahtali" target="blank"><img src="https://img.shields.io/twitter/follow/chwajahtali?logo=twitter&style=for-the-badge" alt="chwajahtali" /></a> </p>
+<p align="left"> <a href="https://x.com/hassanbakhtiar_" target="blank"><img src="https://img.shields.io/twitter/follow/Danish?logo=twitter&style=for-the-badge" alt="chwajahtali" /></a> </p>
 
 
 
